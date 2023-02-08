@@ -38,12 +38,13 @@
         ]
       },
       {
-        "title": "Photography",
+        "title": "My Diary APP",
         "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "description": "A Diary App that allows the user to add entries to a Pocket diary, autosaving changes to it after a few seconds. By making use of Express and MongoDB the entries will be stored in a Database making the app and the information accessible from anywhere.it Makes use Tiny Text Editor library.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/myDiary/Screenshot_1.png",
+          "images/portfolio/myDiary/Screenshot_2.png",
+          "images/portfolio/myDiary/Screenshot_3.png"
         ],
         "url": "https://github.com",
         "technologies": [
