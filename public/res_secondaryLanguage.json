@@ -5,44 +5,44 @@
       "section_name": {
         "about": "Acerca",
         "projects": "Proyectos",
-        "skills": "Habilidades",
+        "skills": "Tecnologias",
         "experience": "Esperiencia"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "Personal Portfolio website",
+        "startDate": "2023",
+        "description": "Mi sitio web personal usó una plantilla que encontré en Github para mostrar mis habilidades para trabajar con código con varias personas, agregó los idiomas que hablo y los proyectos en los que he trabajado. En el futuro, hago una panorámica para agregar la línea de tiempo que incluye mis empleos y aumenta la cantidad de tecnologías que conozco :). También lo monté en un servicio Amplify AWS y vinculé mi propio dominio",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/pwebsite/p1.png"
         ],
-        "url": "",
+        "url": "https://github.com/ismajoshi/React-Front-End-Portfolio",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-amazonwebservices-original",
+            "name": "AWS"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+        "title": "My Diary",
+        "startDate": "2022",
+        "description": "Una aplicación de diario que le permite al usuario agregar entradas a un diario de bolsillo, guardando automáticamente los cambios después de unos segundos. Al usar Express y MongoDB, las entradas se almacenarán en una base de datos haciendo que la aplicación y la información accesible desde cualquier lugar. Hace uso de la biblioteca Tiny Text Editor.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/myDiary/Screenshot_1.png",
+          "images/portfolio/myDiary/Screenshot_2.png",
+          "images/portfolio/myDiary/Screenshot_3.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/ismajoshi/MyDiaryApp",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -52,29 +52,65 @@
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
           }
+          ,
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "Douglas Booking system",
+        "startDate": "2021",
+        "description": "La aplicación más amplia con la que tuve la oportunidad de trabajar. Aprendí muchas tecnologías como SpringBoot, MySQL y Github y mi código fue revisado por un profesor increíble. La aplicación maneja un sistema de reserva de salas para una biblioteca donde los usuarios pueden reservar salas por intervalos de tiempo y agregar otros usuarios para su reunión.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/bookingsystem/Screenshot_1.png",
+          "images/portfolio/bookingsystem/Screenshot_2.jpg",
+          "images/portfolio/bookingsystem/Screenshot_3.png",
+          "images/portfolio/bookingsystem/Screenshot_4.png",
+          "images/portfolio/bookingsystem/Screenshot_5.png"
+        ],
+        "url": "https://github.com/ismajoshi/XD-Douglas-Booking-SystemP",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-spring-plain",
+            "name": "SpringBoot"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+        ]
+      },
+      {
+        "title": "TrackChip App",
+        "startDate": "2021",
+        "description": "La aplicación TrackChip desarrollada para Android es una aplicación de rastreo de paquetes que muestra las múltiples paradas que hace un paquete durante el viaje a su destino final. También puede calcular los precios de los paquetes y comprar los envíos utilizando la API de Google para verificar para las oficinas de correo cercanas donde puedes enviar tus paquetes.",
+        "images": [
+          "images/portfolio/trackchip/p1.png",
+          "images/portfolio/trackchip/p2.png",
+          "images/portfolio/trackchip/p3.png",
+          "images/portfolio/trackchip/p4.png",
+          "images/portfolio/trackchip/p5.png",
+          "images/portfolio/trackchip/p6.png"
         ],
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-androidstudio-plain",
+            "name": "Android"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-java-plain",
+            "name": "Java"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-sqlite-plain",
+            "name": "SQLite"
           }
         ]
       }
