@@ -29,9 +29,14 @@
           "level": "95"
         },
         {
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "95"
+        },
+        {
           "name": "Angular",
           "class": "devicon-angularjs-plain",
-          "level": "80"
+          "level": "50"
         },
         {
           "name": "TypeScript",
@@ -49,19 +54,34 @@
           "level": "85"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
-        },
-        {
           "name": "MySql",
           "class": "devicon-mysql-plain",
           "level": "60"
         },
         {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "60"
+        },
+        {
+          "name": "SQLite",
+          "class": "devicon-sqlite-plain",
+          "level": "80"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "90"
+        },
+        {
           "name": "C#",
           "class": "devicon-csharp-plain",
           "level": "60"
+        },
+        {
+          "name": "Android",
+          "class": "devicon-androidstudio-plain",
+          "level": "80"
         }
 
       ]

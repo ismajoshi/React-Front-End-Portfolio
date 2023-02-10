@@ -11,6 +11,55 @@
     },
     "projects": [
       {
+        "title": "Personal Portfolio website",
+        "startDate": "2023",
+        "description": "My Personal website made use of a Template I found on Github to show my skills on working with code with multiple people, added the languages I Speak and the projects I've worked on. In the future I Pan to add the timeline incluiding my employments and increase the amount of technologies I know :). Also I mounted it on an Amplify AWS service and linked my own domain.",
+        "images": [
+          "images/portfolio/pwebsite/p1.png"
+        ],
+        "url": "https://github.com/ismajoshi/React-Front-End-Portfolio",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-amazonwebservices-original",
+            "name": "AWS"
+          }
+        ]
+      },
+      {
+        "title": "My Diary",
+        "startDate": "2022",
+        "description": "A Diary App that allows the user to add entries to a Pocket diary, autosaving changes to it after a few seconds. By making use of Express and MongoDB the entries will be stored in a Database making the app and the information accessible from anywhere.it Makes use Tiny Text Editor library.",
+        "images": [
+          "images/portfolio/myDiary/Screenshot_1.png",
+          "images/portfolio/myDiary/Screenshot_2.png",
+          "images/portfolio/myDiary/Screenshot_3.png"
+        ],
+        "url": "https://github.com/ismajoshi/MyDiaryApp",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+          ,
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          }
+        ]
+      },
+      {
         "title": "Douglas Booking system",
         "startDate": "2021",
         "description": "The most expanded application I had opportunity to work with. I've learned many technologies such as SpringBoot, MySQL and Github and my code was reviewed by awesome Professor. Application handles a room booking system for a library where users can book rooms for intervals of time and add other users for their meeting.",
@@ -38,47 +87,30 @@
         ]
       },
       {
-        "title": "My Diary APP",
-        "startDate": "2018",
-        "description": "A Diary App that allows the user to add entries to a Pocket diary, autosaving changes to it after a few seconds. By making use of Express and MongoDB the entries will be stored in a Database making the app and the information accessible from anywhere.it Makes use Tiny Text Editor library.",
+        "title": "TrackChip App",
+        "startDate": "2021",
+        "description": "TrackChip app developed for Android is a package tracking app that display the multiple stops a Package makes during the trip to its final destination, It can as well calculate package prices and purchase shippings making use as weel of google API to check for nearby post offices where you can ship your packages.",
         "images": [
-          "images/portfolio/myDiary/Screenshot_1.png",
-          "images/portfolio/myDiary/Screenshot_2.png",
-          "images/portfolio/myDiary/Screenshot_3.png"
+          "images/portfolio/trackchip/p1.png",
+          "images/portfolio/trackchip/p2.png",
+          "images/portfolio/trackchip/p3.png",
+          "images/portfolio/trackchip/p4.png",
+          "images/portfolio/trackchip/p5.png",
+          "images/portfolio/trackchip/p6.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/ismajoshi/Mobile-Dev-TrackChip",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-androidstudio-plain",
+            "name": "Android"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-java-plain",
+            "name": "Java"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-sqlite-plain",
+            "name": "SQLite"
           }
         ]
       }
