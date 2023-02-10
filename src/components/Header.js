@@ -89,7 +89,7 @@ class Header extends Component {
               />
             </div>
           </div>
-              <a class="btn btn-primary btn-lg" target="_blank" href="IsmaelMoreno.pdf"><h2>My Resume</h2></a>
+              <a class="btn btn-primary btn-lg" href="IsmaelMoreno.pdf"><h2>My Resume</h2></a>
         </div>
       </header>
     );
