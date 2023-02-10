@@ -17,6 +17,8 @@ class App extends Component {
       sharedData: {},
     };
   }
+  
+
 
   applyPickedLanguage(pickedLanguage, oppositeLangIconId) {
     this.swapCurrentlyActiveLanguage(oppositeLangIconId);
@@ -80,6 +82,7 @@ class App extends Component {
 
   render() {
     return (
+      
       <div>
         <Header sharedData={this.state.sharedData.basic_info} />
         <div className="col-md-12 mx-auto text-center language">
